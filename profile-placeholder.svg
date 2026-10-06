@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+<defs><radialGradient id="g"><stop stop-color="#303b5e"/><stop offset="1" stop-color="#090c14"/></radialGradient></defs>
+<rect width="900" height="1100" fill="url(#g)"/>
+<circle cx="450" cy="360" r="150" fill="#a7ff6f" opacity=".15"/>
+<text x="450" y="560" text-anchor="middle" fill="white" font-family="Arial" font-size="150" font-weight="800">KS</text>
+<text x="450" y="640" text-anchor="middle" fill="#a7ff6f" font-family="Arial" font-size="28" letter-spacing="8">KARAN SHARMA</text>
+</svg>
