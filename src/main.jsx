@@ -160,7 +160,7 @@ function App() {
         <nav className="nav" aria-label="Primary navigation">
           <button className="brand" onClick={() => go("home")} aria-label="Go to home">
             <span className="brand-mark">KS</span>
-            <span>KARAN<span className="accent">.</span></span>
+            <span>KARAN SHARMA<span className="accent">.</span></span>
           </button>
 
           <div className={`nav-links ${menuOpen ? "open" : ""}`}>
@@ -340,7 +340,7 @@ function App() {
       </main>
 
       <footer>
-        <div className="footer-brand"><span className="brand-mark">KS</span><span>KARAN<span className="accent">.</span></span></div>
+        <div className="footer-brand"><span className="brand-mark">KS</span><span>KARAN SHARMA<span className="accent">.</span></span></div>
         <p>© {new Date().getFullYear()} Karan Sharma · Designed & built with intention.</p>
         <button onClick={() => go("home")} className="back-top">Back to top <ArrowUpDown /></button>
       </footer>
